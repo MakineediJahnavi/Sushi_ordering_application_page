@@ -1,1 +1,1 @@
-# Sushi_ordering_application_page.github.io
+# Sushi_ordering_application_page
